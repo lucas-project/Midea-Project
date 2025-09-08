@@ -1,0 +1,992 @@
+--- Product Analysis Log ---
+Report generated at: 2025-09-06 21:10:07
+
+Found 0 cross-lined products in '2025 RAC'.
+Found 7 cross-lined products in '2025 MBT'.
+
+--- Container Number Extraction ---
+Sample RAC container numbers:
+  1. Original: RAC-285/
+CAAU8676238 -> Extracted: CAAU8676238
+  2. Original: RAC-285/
+CAAU8676238 -> Extracted: CAAU8676238
+  3. Original: RAC-285/
+CAAU8676238 -> Extracted: CAAU8676238
+  4. Original: RAC-285/
+CAAU8676238 -> Extracted: CAAU8676238
+  5. Original: RAC-285/
+CAAU8676238 -> Extracted: CAAU8676238
+
+Sample Customs container numbers:
+  1. Original: ZCSU7532999 -> Extracted: ZCSU7532999
+  2. Original: TSSU5163181 -> Extracted: TSSU5163181
+  3. Original: ZCSU6984356 -> Extracted: ZCSU6984356
+  4. Original: ZCSU7632581 -> Extracted: ZCSU7632581
+  5. Original: ZCSU6797458 -> Extracted: ZCSU6797458
+
+--- Container to Suburb Mapping ---
+Found 528 VIC-Mel entries in Customs sheet
+Container: ZCSU7632581, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: ZCSU6797458, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: ZCSU6604292, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: ZCSU7049105, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: ZCSU7232970, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: FFAU4387082, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: PCIU8558072, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: OOLU9706150, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TGHU6924225, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: CAAU6128066, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: CSNU6622758, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TSSU5087374, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: BSIU9525430, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: HAMU1378237, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: HAMU1369153, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: HAMU1364167, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: HAMU1358652, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: HAMU1358570, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: OOLU9842579, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TEMU8976885, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: HAMU1359258, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: HAMU1378900, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TSSU5114865, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: GAOU6731220, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TEMU7847008, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TIIU4454937, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: ZCSU7140220, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TRHU8707447, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TCNU6590893, Address: nan, Mapped to: Mel (No Specific)
+Container: TCKU7567173, Address: 185-189 Boundary Rd, Laverton North VIC 3026, Mapped to: Laverton
+Container: FFAU1628139, Address: 185-189 Boundary Rd, Laverton North VIC 3026, Mapped to: Laverton
+Container: MAGU5600281, Address: 185-189 Boundary Rd, Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5031293, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TSSU5039463, Address: 17-23 Redwood Drive, Dingley Village, Mapped to: Dingley Village
+Container: TCKU7948570, Address: 17-23 Redwood Drive, Dingley Village, Mapped to: Dingley Village
+Container: OOCU7858076, Address: 23 Truganina, 5 Carmen StTruganina VIC 3029，Australia, Mapped to: Truganina
+Container: GAOU6386186, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: GAOU6771752, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TSSU5001257, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TSSU5154385, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TSSU5150311, Address: Mel Warehouse, Mapped to: Mel (No Specific)
+Container: TGBU4948334, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: FFAU4399308, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TLLU7977152, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TRHU4076615, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SEKU5869860, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TRHU4075007, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: BSIU9886643, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: FCIU7307262, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: BHCU4975791, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: FDCU0006143, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: BSIU9877805, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5204090, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TRHU8671370, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: BSIU9985610, Address: -, Mapped to: Mel (No Specific)
+Container: BMOU4748287, Address: -, Mapped to: Mel (No Specific)
+Container: PCIU9517627, Address: -, Mapped to: Mel (No Specific)
+Container: PIDU4246314, Address: -, Mapped to: Mel (No Specific)
+Container: TSSU5116615, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SEKU5875879, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5014439, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TLLU8575245, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5133401, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5055736, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: CSNU6849588, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: OOCU8904319, Address: 68‑74 National Boulevard, Campbellfield, Victoria 3061, Mapped to: Campbellfield
+Container: SNBU8363594, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CSNU6022732, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CSNU8982429, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TGHU6579284, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: ONEU1697690, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: KKFU7869930, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: GCXU5227617, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8203385, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: UASU1038057, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8303764, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: SNBU8275317, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: SNBU8266911, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: SNBU8285450, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: HAMU4094147, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: FFAU3378614, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: BMOU5040163, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CSLU6027568, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: OOLU9514517, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TLLU8703705, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: BHCU5014910, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5017340, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TRHU8864030, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: GAOU7023225, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TRHU8020867, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: GAOU6999038, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: SEKU4077529, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TXGU6558472, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TXGU7110538, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TXGU7370598, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: CSNU8599723, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CSNU8773368, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: HAMU2530133, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: HAMU4116591, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: HAMU4114921, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: HAMU4117638, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: HAMU4116396, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: HAMU4116550, Address: 4 Freight Road Ravenhall VIC 3023, Mapped to: Ravenhall
+Container: OOLU9534658, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: FFAU3192086, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TCNU3249230, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: HAMU2918793, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8371630, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8389644, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: UACU6034664, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: HAMU2891882, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8206677, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8351926, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: HAMU1976305, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: HLXU8095149, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: FANU1811966, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: SNBU8278682, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8295078, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TLLU8017496, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TEMU7940928, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: GAOU6962912, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TSSU5153619, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TSSU5007105, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TRHU8925670, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: GAOU6738857, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: GAOU7074346, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TIIU5089567, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TIIU4296180, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TIIU4449648, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TCKU7953263, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: GAOU7071809, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: BHCU5015985, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: CSNU8573499, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CSNU6041265, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CSLU6079031, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TXGU5784109, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: GAOU7023924, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5103876, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: BSIU9817128, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5057560, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TIIU4455640, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5170386, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: GAOU7022213, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TLLU8699307, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TIIU6817008, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: PCIU8713353, Address: -, Mapped to: Mel (No Specific)
+Container: PCIU9146167, Address: -, Mapped to: Mel (No Specific)
+Container: PCIU9367595, Address: -, Mapped to: Mel (No Specific)
+Container: TEMU8408653, Address: -, Mapped to: Mel (No Specific)
+Container: SLVU4763984, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: BSIU8345686, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TGBU9700130, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FFAU1863483, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: ONEU1702728, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: ONEU0091199, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: ONEU0963619, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: ONEU5150904, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: ONEU1009210, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TRHU4612493, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TGCU5197170, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TCLU6318147, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: NYKU4823963, Address: 2 Camino Crescent, Cranbourne West, VIC 3977, Mapped to: Cranbourne West
+Container: SEKU4683980, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: DFSU6846242, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FFAU2657384, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TIIU4447373, Address: -, Mapped to: Mel (No Specific)
+Container: TSSU5108055, Address: -, Mapped to: Mel (No Specific)
+Container: TSSU5213929, Address: -, Mapped to: Mel (No Specific)
+Container: HLBU2702567, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: SEKU6414470, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: BEAU4193137, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: SEGU5124575, Address: 2 Camino Crescent, Cranbourne West, VIC 3977, Mapped to: Cranbourne West
+Container: TRHU5341333, Address: -, Mapped to: Mel (No Specific)
+Container: NLLU4114039, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: PCIU9235325, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: PCIU9249611, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: JXLU6390272, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: PIDU4183474, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: GAOU7514872, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TRHU8010323, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TIIU4472308, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: MAGU5622378, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: GAOU6733670, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5161189, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TIIU5078834, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TXGU6827139, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: MAGU5599365, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TEMU7935222, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TLLU8598359, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: SEKU6003530, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: GAOU6740520, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CSNU8314190, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CSNU8792727, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CSLU6257745, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: FCIU9828505, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: OOCU7357161, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5156691, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: GAOU6775790, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CAAU9442553, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5157297, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5124821, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5190227, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TLLU8880439, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TIIU5698368, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TXGU5798611, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TXGU7362910, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5120765, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5155442, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TRHU8937136, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TCKU6757728, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TRHU8857792, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CAAU5680717, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: HAMU2125486, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FDCU0335540, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOCU9139791, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOCU7262960, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TIIU5698877, Address: -, Mapped to: Mel (No Specific)
+Container: TXGU5676510, Address: -, Mapped to: Mel (No Specific)
+Container: ONEU5486680, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CAAU8805211, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CAAU8803190, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CAAU8803630, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CAAU8804663, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CAAU8803081, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CAAU8803163, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CAAU8803224, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: MAGU5608580, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TRHU6611794, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CAAU8805320, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CAAU8804719, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TXGU8125620, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TGBU7787059, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CSNU8073277, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: BMOU4943323, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FFAU2814499, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: RFCU4021460, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: OOLU9592274, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOCU7615712, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOLU9421380, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CAAU8805839, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TIIU6124512, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TEMU8373855, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: FCIU7306477, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: SNBU8347314, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: SLPU5018569, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8276930, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: SNBU8267203, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: UETU7198625, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: SNBU8223592, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CAAU8663375, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: BEAU4828310, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TEMU7810708, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: SNBU8244846, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TIIU6319279, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: WSDU4981620, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: UETU7965244, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: GAOU7080668, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TXGU5684820, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: GAOU7074979, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: OOLU8805781, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: FCIU9818615, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TGBU7977790, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: FFAU2661580, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CSNU8782159, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CSNU8837117, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: BEAU6227494, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TGBU9828476, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TCLU1466985, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: BMOU5149642, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CSLU6141610, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: GCXU5521236, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: ZCSU7938421, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: GAOU6440944, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: SEGU5277337, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: NYKU4979724, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TCNU4893268, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TLLU8859051, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TXGU8292191, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TLLU8859236, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TEMU7946274, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TXGU7108649, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: GAOU6964474, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: GAOU6773740, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5046523, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TCKU7953915, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TSSU5150029, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5198233, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TSSU5165707, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TIIU6416833, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: BEAU6239176, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: OOLU6930763, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: OOLU9246158, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CAAU8772993, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CAAU8777172, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CAAU8777315, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TCNU4822048, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: CAIU4955345, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: OOCU6880413, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: OOCU8198871, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOLU6967947, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: BEAU6224725, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: FCIU9916144, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TCLU6322980, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: BMOU4978090, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5168882, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TXGU7108309, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TRHU4083255, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5047556, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: BHCU5010005, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5171248, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CSNU7011162, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CSNU8401798, Address: 71-73 Ricketts Road, Mount Waverley VIC 3149, Mapped to: Mount Waverley
+Container: OOCU8832224, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: FCIU9651092, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CSNU8630665, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TCNU5588905, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: FFAU1777702, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TLLU7735267, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CAAU8772653, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CAAU8773032, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8389726, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8224578, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: SNBU8423625, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: DFSU7787150, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: FDCU0000649, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: TGBU5132263, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: SLPU5010676, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: BHCU5007125, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: SNBU8246535, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FFAU6279791, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FFAU3102544, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOCU8961561, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FFAU1377223, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FCIU9577312, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: BEAU6054228, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: CSNU7698742, Address: 3/3-5 Weddel Court, Laverton North, Mapped to: Laverton
+Container: UETU6427964, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CSNU7597048, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: ONEU0633480, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: FFAU6092774, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TGBU5037163, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SEKU6003612, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TXGU6905144, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: SEKU5874173, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TXGU8955144, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: SEKU5872294, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TXGU6638650, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TIIU5318489, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TIIU6816296, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TLLU7977975, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TRHU8132384, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CAIU4969987, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: GCXU6436205, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: SEGU6823643, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: DFSU7022896, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: UETU6452437, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CSNU7664280, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: OOCU7876594, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: CSNU7743543, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: OOLU6829505, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: ONEU5076710, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TGHU6638880, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5179110, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: TSSU5011445, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: GAOU7000322, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TXGU5979800, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5071439, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5039519, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: MAGU5627955, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TCKU7562021, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TCKU7561529, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TXGU5778554, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TLLU8015472, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TCKU7947759, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5166787, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TXGU8278568, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TXGU8957363, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5126043, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8214013, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8359932, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: SNBU8333959, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026
+, Mapped to: Laverton
+Container: BSIU9954590, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TRHU8715268, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: FFAU3409926, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CSNU8101580, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SEKU4666690, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: OOCU7268660, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FFAU7077413, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOCU9333528, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOCU9681565, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FFAU3196203, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TIIU4929992, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOCU7748295, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: BHCU4986815, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CAIU4419384, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TEMU6771633, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: JXLU4673648, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: ZCSU7170138, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: ZCSU7248874, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: JXLU4680462, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: SNBU8189348, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: GAOU6757728, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5070983, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TRHU6615608, Address: 2 Camino Crescent, Cranbourne West VIC 3977, Mapped to: Cranbourne West
+Container: TSSU5264314, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: UETU7953270, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TRHU8678502, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TIIU4447239, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5097686, Address: 114 / 307 Gilby Rd, Mount Waverley VIC 3149, Mapped to: Mount Waverley
+Container: UETU7808754, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5164953, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5190171, Address: 71-73 Ricketts Road, Mount Waverley VIC 3149, Mapped to: Mount Waverley
+Container: CAAU8039040, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5213235, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: GAOU6957921, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CAAU8676238, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TXGU7361024, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TRHU8694503, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TXGU6726405, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: CSNU5640802, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TLLU5741260, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TXGU4243239, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FFAU6254788, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: OOCU8415302, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TEMU7773590, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TXGU7370026, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: GAOU6728695, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5123830, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5151874, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TRHU4282853, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5187331, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5050950, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TCKU7946829, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TXGU5976550, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TXGU6734479, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TLLU7991280, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: SNBU8232146, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: FCIU7241123, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: UETU7213381, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: FFAU4718621, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: TEMU8372524, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: SNBU8346895, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: UETU7196915, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: UETU7213463, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CAAU6157953, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOCU7407350, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: DFSU7577791, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: FSCU9349517, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOCU7644921, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TIIU4464724, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: TSSU5008436, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: GAOU6762880, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TRHU8860559, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TRHU4281292, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5003650, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: GCXU6502204, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TCKU7560121, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5157424, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TRHU8448937, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TSSU5237772, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TIIU4106994, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TSSU5031950, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: OOCU7442094, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CSNU6443752, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FSCU8592815, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CSNU7407934, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: TGBU4886700, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FBLU0175892, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CSNU8065939, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: OOCU7782160, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: FFAU3618269, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: CCLU7665761, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: SNBU8285697, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: TGBU5128880, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: ONEU6097337, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: ONEU6103281, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: ONEU6100425, Address: warehouse 1/1-11 Gilbertson Rd Laverton North VIC 3026, Mapped to: Laverton
+Container: ONEU6097044, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: ONEU6103379, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TGBU9831192, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TGBU7693772, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: FFAU6944530, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: FCIU9850983, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: FSCU8512580, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: TEMU7997306, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: TGBU8646435, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: OOCU8651838, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: TCNU1735905, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: CSNU7341415, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: CSNU6260659, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: TCNU7999799, Address: Pending, Mapped to: Mel (No Specific)
+Container: NYKU5650918, Address: Pending, Mapped to: Mel (No Specific)
+Container: FFAU3637968, Address: Pending, Mapped to: Mel (No Specific)
+Container: CAAU8678307, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: FFAU5950502, Address: 287-293 Wellington Road, Mulgrave VIC 3170, Mapped to: Mulgrave
+Container: SNBU8419543, Address: 7 Ordish Road, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: FFAU5577256, Address: Pending, Mapped to: Mel (No Specific)
+Container: OOCU8904725, Address: Pending, Mapped to: Mel (No Specific)
+Container: UETU5196665, Address: Pending, Mapped to: Mel (No Specific)
+Container: TLLU7739365, Address: Pending, Mapped to: Mel (No Specific)
+Container: TGBU5895250, Address: Pending, Mapped to: Mel (No Specific)
+Container: OOCU9636843, Address: Pending, Mapped to: Mel (No Specific)
+Container: TRHU4404709, Address: Pending, Mapped to: Mel (No Specific)
+Container: SNBU8464202, Address: Pending, Mapped to: Mel (No Specific)
+Container: SNBU8276627, Address: 9-15 Arkwright Drive, Dandenong South VIC 3175, Mapped to: Dandenong
+Container: TIIU6202580, Address: Pending, Mapped to: Mel (No Specific)
+Container: UETU5187560, Address: Pending, Mapped to: Mel (No Specific)
+Container: FFAU3113153, Address: Pending, Mapped to: Mel (No Specific)
+Container: MAGU5359976, Address: Pending, Mapped to: Mel (No Specific)
+Container: OOCU7487674, Address: Pending, Mapped to: Mel (No Specific)
+Container: OOLU9622337, Address: Pending, Mapped to: Mel (No Specific)
+Container: TIIU5620971, Address: Pending, Mapped to: Mel (No Specific)
+Container: CSNU6644464, Address: Pending, Mapped to: Mel (No Specific)
+Container: SNBU8408256, Address: Pending, Mapped to: Mel (No Specific)
+Container: SNBU8301015, Address: Pending, Mapped to: Mel (No Specific)
+Container: SNBU8200010, Address: Pending, Mapped to: Mel (No Specific)
+Container: CSLU6294815, Address: Pending, Mapped to: Mel (No Specific)
+Container: CSNU5609052, Address: Pending, Mapped to: Mel (No Specific)
+Container: OOCU7964340, Address: Pending, Mapped to: Mel (No Specific)
+
+Created mapping for 519 containers
+SUCCESS: Product UCMI70OB (Week 32.0) with container CAAU8676238 mapped to VIC-Dandenong
+SUCCESS: Product DUCMI105IHB (Week 32.0) with container CAAU8676238 mapped to VIC-Dandenong
+SUCCESS: Product UCMI105OB (Week 32.0) with container CAAU8676238 mapped to VIC-Dandenong
+SUCCESS: Product UCMI125OB (Week 32.0) with container CAAU8676238 mapped to VIC-Dandenong
+SUCCESS: Product DUCMI170IHB (Week 32.0) with container CAAU8676238 mapped to VIC-Dandenong
+SUCCESS: Product UCMI170OB (Week 32.0) with container CAAU8676238 mapped to VIC-Dandenong
+SUCCESS: Product MULMI0480B (Week 32.0) with container CAAU8676238 mapped to VIC-Dandenong
+SUCCESS: Product MULMI0513B (Week 32.0) with container CAAU8676238 mapped to VIC-Dandenong
+SUCCESS: Product MULMI0618B (Week 32.0) with container CAAU8676238 mapped to VIC-Dandenong
+SUCCESS: Product MFAG26VA-N (Week 33.0) with container UETU7213381 mapped to VIC-Mulgrave
+SUCCESS: Product MFAG51VA-N (Week 33.0) with container UETU7213381 mapped to VIC-Mulgrave
+SUCCESS: Product MWFF28H (Week 33.0) with container UETU7213381 mapped to VIC-Mulgrave
+SUCCESS: Product MULMI0618B (Week 33.0) with container FCIU7241123 mapped to VIC-Dandenong
+SUCCESS: Product MFAG26VA-N (Week 33.0) with container FCIU7241123 mapped to VIC-Dandenong
+SUCCESS: Product MFAG36VA-N (Week 33.0) with container FCIU7241123 mapped to VIC-Dandenong
+SUCCESS: Product MFAG51VA-N (Week 33.0) with container FCIU7241123 mapped to VIC-Dandenong
+SUCCESS: Product MFAG70VA-N (Week 33.0) with container FCIU7241123 mapped to VIC-Dandenong
+SUCCESS: Product MFAG80VA-N (Week 33.0) with container FCIU7241123 mapped to VIC-Dandenong
+SUCCESS: Product MULMI0618B (Week 33.0) with container TEMU8372524 mapped to VIC-Laverton
+SUCCESS: Product MFAG26VA-N (Week 33.0) with container TEMU8372524 mapped to VIC-Laverton
+SUCCESS: Product MFAG36VA-N (Week 33.0) with container TEMU8372524 mapped to VIC-Laverton
+SUCCESS: Product MFAG51VA-N (Week 33.0) with container TEMU8372524 mapped to VIC-Laverton
+SUCCESS: Product MFAG70VA-N (Week 33.0) with container TEMU8372524 mapped to VIC-Laverton
+SUCCESS: Product MFAG80VA-N (Week 33.0) with container TEMU8372524 mapped to VIC-Laverton
+SUCCESS: Product MWFI36H (Week 33.0) with container FFAU4718621 mapped to VIC-Mulgrave
+SUCCESS: Product MFAG26VA-N (Week 33.0) with container SNBU8232146 mapped to VIC-Mulgrave
+SUCCESS: Product DUCMI170IHB (Week 33.0) with container SNBU8232146 mapped to VIC-Mulgrave
+SUCCESS: Product UCMI170OB (Week 33.0) with container SNBU8232146 mapped to VIC-Mulgrave
+SUCCESS: Product MFAG26VA-N (Week 33.0) with container SNBU8346895 mapped to VIC-Mulgrave
+SUCCESS: Product DUCMI170IHB (Week 33.0) with container SNBU8346895 mapped to VIC-Mulgrave
+SUCCESS: Product UCMI170OB (Week 33.0) with container SNBU8346895 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container OOCU7442094 mapped to VIC-Laverton
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container CSNU7407934 mapped to VIC-Laverton
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container CSNU6443752 mapped to VIC-Laverton
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container TGBU4886700 mapped to VIC-Laverton
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container TGBU4886700 mapped to VIC-Laverton
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container FSCU8592815 mapped to VIC-Laverton
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container CSNU8065939 mapped to VIC-Laverton
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container CCLU7665761 mapped to VIC-Laverton
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container FFAU3618269 mapped to VIC-Laverton
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container FBLU0175892 mapped to VIC-Laverton
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container FBLU0175892 mapped to VIC-Laverton
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 35.0) with container OOCU7782160 mapped to VIC-Laverton
+SUCCESS: Product MWFI36H (Week 35.0) with container TGBU5128880 mapped to VIC-Mulgrave
+SUCCESS: Product MWFF39H (Week 35.0) with container SNBU8285697 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container TEMU7997306 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container TGBU8646435 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container TGBU8646435 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container FCIU9850983 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container FFAU6944530 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container FFAU6944530 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container FSCU8512580 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container OOCU8651838 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container TCNU1735905 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container CSNU7341415 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container CSNU6260659 mapped to VIC-Mulgrave
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container TGBU7693772 mapped to VIC-Mulgrave
+SUCCESS: Product MFAG60VA-N (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MFAG60VA-W (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MFAB35NB (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MFAB35NB (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MULMI0618B (Week 35.0) with container TGBU9831192 mapped to VIC-Dandenong
+SUCCESS: Product MFAG26VA-N (Week 35.0) with container TGBU9831192 mapped to VIC-Dandenong
+SUCCESS: Product MFAG36VA-N (Week 35.0) with container TGBU9831192 mapped to VIC-Dandenong
+SUCCESS: Product MFAG51VA-N (Week 35.0) with container TGBU9831192 mapped to VIC-Dandenong
+SUCCESS: Product MFAG70VA-N (Week 35.0) with container TGBU9831192 mapped to VIC-Dandenong
+SUCCESS: Product MFAG80VA-N (Week 35.0) with container TGBU9831192 mapped to VIC-Dandenong
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container OOCU9636843 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container TRHU4404709 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container TLLU7739365 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container FFAU5577256 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container FFAU5577256 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container FFAU3637968 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container NYKU5650918 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container TCNU7999799 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container TGBU5895250 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container OOCU8904725 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 36.0) with container UETU5196665 mapped to VIC-Mel (No Specific)
+SUCCESS: Product MFAG26VA-N (Week 36.0) with container FFAU5950502 mapped to VIC-Mulgrave
+SUCCESS: Product DUCMI170IHB (Week 36.0) with container FFAU5950502 mapped to VIC-Mulgrave
+SUCCESS: Product UCMI170OB (Week 36.0) with container FFAU5950502 mapped to VIC-Mulgrave
+SUCCESS: Product MFAG26VA-N (Week 36.0) with container CAAU8678307 mapped to VIC-Mulgrave
+SUCCESS: Product DUCMI170IHB (Week 36.0) with container CAAU8678307 mapped to VIC-Mulgrave
+SUCCESS: Product UCMI170OB (Week 36.0) with container CAAU8678307 mapped to VIC-Mulgrave
+SUCCESS: Product MULMI0511B (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product MFAG26VA-N (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product MFAG36VA-N (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product UCMI170OB (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 37.0) with container TIIU5620971 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 37.0) with container CSNU6644464 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 37.0) with container MAGU5359976 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 37.0) with container OOCU7487674 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 37.0) with container OOLU9622337 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 37.0) with container UETU5187560 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 37.0) with container FFAU3113153 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 37.0) with container TIIU6202580 mapped to VIC-Mel (No Specific)
+SUCCESS: Product MFAG20VA-N (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MFAG26VA-N (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MFAG36VA-N (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MFAG51VA-N (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MFAG51VA-W (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MFAG60VA-N (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MFAG70VA-N (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MFAG70VA-W (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MFAG80VA-N (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product DUCMI70IB (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product UCMI70OB (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product DUCMI125IHB (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product UCMI125OB (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product DUCMI170IHB (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product UCMI170OB (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MULMI0371B (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MULMI0480B (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MULMI0513B (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MULMI0618B (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product CASMI125IB (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product CASMIFP (Week 37.0) with container SNBU8276627 mapped to VIC-Dandenong
+SUCCESS: Product MFAG26VA-N (Week 37.0) with container SNBU8464202 mapped to VIC-Mel (No Specific)
+SUCCESS: Product DUCMI170IHB (Week 37.0) with container SNBU8464202 mapped to VIC-Mel (No Specific)
+SUCCESS: Product UCMI170OB (Week 37.0) with container SNBU8464202 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 38.0) with container OOCU7964340 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 38.0) with container OOCU7964340 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 38.0) with container CSNU5609052 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 38.0) with container CSNU5609052 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 38.0) with container CSLU6294815 mapped to VIC-Mel (No Specific)
+SUCCESS: Product RSJ-23/300RDN7-L2 (Week 38.0) with container CSLU6294815 mapped to VIC-Mel (No Specific)
+SUCCESS: Product MFAG26VA-N (Week 37.0) with container SNBU8301015 mapped to VIC-Mel (No Specific)
+SUCCESS: Product DUCMI170IHB (Week 37.0) with container SNBU8301015 mapped to VIC-Mel (No Specific)
+SUCCESS: Product UCMI170OB (Week 37.0) with container SNBU8301015 mapped to VIC-Mel (No Specific)
+SUCCESS: Product MFAG26VA-N (Week 37.0) with container SNBU8200010 mapped to VIC-Mel (No Specific)
+SUCCESS: Product DUCMI170IHB (Week 37.0) with container SNBU8200010 mapped to VIC-Mel (No Specific)
+SUCCESS: Product UCMI170OB (Week 37.0) with container SNBU8200010 mapped to VIC-Mel (No Specific)
+SUCCESS: Product MFAG26VA-N (Week 37.0) with container SNBU8408256 mapped to VIC-Mel (No Specific)
+SUCCESS: Product DUCMI170IHB (Week 37.0) with container SNBU8408256 mapped to VIC-Mel (No Specific)
+SUCCESS: Product UCMI170OB (Week 37.0) with container SNBU8408256 mapped to VIC-Mel (No Specific)
+FAILED: Product MFAG36VA-N (Week 38.0) with container RAC306MBT290 - No suburb mapping found
+FAILED: Product RSJ-23/300RDN7-L2 (Week 38.0) with container RAC306MBT290 - No suburb mapping found
+FAILED: Product RSJ-23/300RDN7-L2 (Week 39.0) with container RAC325 - No suburb mapping found
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 32.0) with container FFAU6254788 mapped to VIC-Dandenong
+SUCCESS: Product MIH28GHN18-A (Week 32.0) with container FFAU6254788 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 32.0) with container FFAU6254788 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 32.0) with container FFAU6254788 mapped to VIC-Dandenong
+SUCCESS: Product MIH80GHN18-A (Week 32.0) with container FFAU6254788 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 32.0) with container OOCU8415302 mapped to VIC-Laverton
+SUCCESS: Product MIH28GHN18-A (Week 32.0) with container OOCU8415302 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 32.0) with container OOCU8415302 mapped to VIC-Laverton
+SUCCESS: Product MIH45GHN18-A (Week 32.0) with container OOCU8415302 mapped to VIC-Laverton
+SUCCESS: Product MIH80GHN18-A (Week 32.0) with container OOCU8415302 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 32.0) with container CSNU5640802 mapped to VIC-Laverton
+SUCCESS: Product MIH28GHN18-A (Week 32.0) with container CSNU5640802 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 32.0) with container CSNU5640802 mapped to VIC-Laverton
+SUCCESS: Product MIH45GHN18-A (Week 32.0) with container CSNU5640802 mapped to VIC-Laverton
+SUCCESS: Product MIH80GHN18-A (Week 32.0) with container CSNU5640802 mapped to VIC-Laverton
+SUCCESS: Product MIH80GHN18-A (Week 32.0) with container CSNU5640802 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 32.0) with container TLLU5741260 mapped to VIC-Laverton
+SUCCESS: Product MIH28GHN18-A (Week 32.0) with container TLLU5741260 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 32.0) with container TLLU5741260 mapped to VIC-Laverton
+SUCCESS: Product MIH45GHN18-A (Week 32.0) with container TLLU5741260 mapped to VIC-Laverton
+SUCCESS: Product MIH80GHN18-A (Week 32.0) with container TLLU5741260 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 32.0) with container TXGU4243239 mapped to VIC-Laverton
+SUCCESS: Product MIH28GHN18-A (Week 32.0) with container TXGU4243239 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 32.0) with container TXGU4243239 mapped to VIC-Laverton
+SUCCESS: Product MIH45GHN18-A (Week 32.0) with container TXGU4243239 mapped to VIC-Laverton
+SUCCESS: Product MIH80GHN18-A (Week 32.0) with container TXGU4243239 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container UETU7196915 mapped to VIC-Laverton
+SUCCESS: Product MIH28GHN18-A (Week 33.0) with container UETU7196915 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container UETU7196915 mapped to VIC-Laverton
+SUCCESS: Product MIH45GHN18-A (Week 33.0) with container UETU7196915 mapped to VIC-Laverton
+SUCCESS: Product MIH80GHN18-A (Week 33.0) with container UETU7196915 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container UETU7213463 mapped to VIC-Laverton
+SUCCESS: Product MIH28GHN18-A (Week 33.0) with container UETU7213463 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container UETU7213463 mapped to VIC-Laverton
+SUCCESS: Product MIH45GHN18-A (Week 33.0) with container UETU7213463 mapped to VIC-Laverton
+SUCCESS: Product MIH80GHN18-A (Week 33.0) with container UETU7213463 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container CAAU6157953 mapped to VIC-Laverton
+SUCCESS: Product MIH28GHN18-A (Week 34.0) with container CAAU6157953 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container OOCU7407350 mapped to VIC-Laverton
+SUCCESS: Product MIH28GHN18-A (Week 34.0) with container OOCU7407350 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container DFSU7577791 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 34.0) with container DFSU7577791 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container FSCU9349517 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 34.0) with container FSCU9349517 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container OOCU7644921 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 34.0) with container OOCU7644921 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 32.0) with container TXGU7361024 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 32.0) with container TXGU7361024 mapped to VIC-Dandenong
+SUCCESS: Product MIH28GHN18-A (Week 32.0) with container TXGU7361024 mapped to VIC-Dandenong
+SUCCESS: Product MIH28GHN18-A (Week 32.0) with container TXGU7361024 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 32.0) with container TXGU7361024 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 32.0) with container TXGU7361024 mapped to VIC-Dandenong
+SUCCESS: Product MIH56GHN18-A (Week 32.0) with container TXGU7361024 mapped to VIC-Dandenong
+SUCCESS: Product MIH71GHN18-A (Week 32.0) with container TXGU7361024 mapped to VIC-Dandenong
+SUCCESS: Product MIH80GHN18-A (Week 32.0) with container TXGU7361024 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 32.0) with container TRHU8694503 mapped to VIC-Dandenong
+SUCCESS: Product MIH28GHN18-A (Week 32.0) with container TRHU8694503 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 32.0) with container TRHU8694503 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 32.0) with container TRHU8694503 mapped to VIC-Dandenong
+SUCCESS: Product MIH56GHN18-A (Week 32.0) with container TRHU8694503 mapped to VIC-Dandenong
+SUCCESS: Product MIH71GHN18-A (Week 32.0) with container TRHU8694503 mapped to VIC-Dandenong
+SUCCESS: Product MIH71GHN18-A (Week 32.0) with container TRHU8694503 mapped to VIC-Dandenong
+SUCCESS: Product MIH80GHN18-A (Week 32.0) with container TRHU8694503 mapped to VIC-Dandenong
+SUCCESS: Product FQH-04 (Week 32.0) with container TRHU8694503 mapped to VIC-Dandenong
+SUCCESS: Product FQH-05 (Week 32.0) with container TRHU8694503 mapped to VIC-Dandenong
+SUCCESS: Product FQH-06 (Week 32.0) with container TRHU8694503 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 32.0) with container TXGU6726405 mapped to VIC-Dandenong
+SUCCESS: Product MIH28GHN18-A (Week 32.0) with container TXGU6726405 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 32.0) with container TXGU6726405 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 32.0) with container TXGU6726405 mapped to VIC-Dandenong
+SUCCESS: Product MIH56GHN18-A (Week 32.0) with container TXGU6726405 mapped to VIC-Dandenong
+SUCCESS: Product MIH71GHN18-A (Week 32.0) with container TXGU6726405 mapped to VIC-Dandenong
+SUCCESS: Product MIH80GHN18-A (Week 32.0) with container TXGU6726405 mapped to VIC-Dandenong
+SUCCESS: Product FQH-04 (Week 32.0) with container TXGU6726405 mapped to VIC-Dandenong
+SUCCESS: Product FQH-05 (Week 32.0) with container TXGU6726405 mapped to VIC-Dandenong
+SUCCESS: Product FQH-06 (Week 32.0) with container TXGU6726405 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container TXGU6734479 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container TXGU6734479 mapped to VIC-Laverton
+SUCCESS: Product MIH45GHN18-A (Week 33.0) with container TXGU6734479 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container TLLU7991280 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container TLLU7991280 mapped to VIC-Laverton
+SUCCESS: Product MIH56GHN18-A (Week 33.0) with container TLLU7991280 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container GAOU6728695 mapped to VIC-Dandenong
+SUCCESS: Product MIH71GHN18-A (Week 33.0) with container GAOU6728695 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container TSSU5123830 mapped to VIC-Laverton
+SUCCESS: Product MIH80GHN18-A (Week 33.0) with container TSSU5123830 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container TSSU5151874 mapped to VIC-Dandenong
+SUCCESS: Product FQH-06 (Week 33.0) with container TSSU5151874 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container TRHU4282853 mapped to VIC-Laverton
+SUCCESS: Product MIH28GHN18-A (Week 33.0) with container TRHU4282853 mapped to VIC-Laverton
+SUCCESS: Product FQH-06 (Week 33.0) with container TRHU4282853 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container TSSU5187331 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container TSSU5187331 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container TSSU5050950 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 33.0) with container TSSU5050950 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product MIH28GHN18-A (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product MIH56GHN18-A (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product MIH71GHN18-A (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product MIH80GHN18-A (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product FQH-04 (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product FQH-05 (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product FQH-05 (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product FQH-06 (Week 33.0) with container TXGU7370026 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container TEMU7773590 mapped to VIC-Dandenong
+SUCCESS: Product MIH28GHN18-A (Week 33.0) with container TEMU7773590 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container TEMU7773590 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 33.0) with container TEMU7773590 mapped to VIC-Dandenong
+SUCCESS: Product MIH56GHN18-A (Week 33.0) with container TEMU7773590 mapped to VIC-Dandenong
+SUCCESS: Product MIH71GHN18-A (Week 33.0) with container TEMU7773590 mapped to VIC-Dandenong
+SUCCESS: Product MIH80GHN18-A (Week 33.0) with container TEMU7773590 mapped to VIC-Dandenong
+SUCCESS: Product FQH-04 (Week 33.0) with container TEMU7773590 mapped to VIC-Dandenong
+SUCCESS: Product FQH-05 (Week 33.0) with container TEMU7773590 mapped to VIC-Dandenong
+SUCCESS: Product FQH-06 (Week 33.0) with container TEMU7773590 mapped to VIC-Dandenong
+SUCCESS: Product FQH-03 (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product MIH28Q4CHN18 (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product T-MBQ4-03F (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product MIH28GHN18-A (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product MIH71GHN18-A (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product MIH200T1HN18(S) (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product WDC3-86T (Week 33.0) with container TCKU7946829 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 33.0) with container TXGU5976550 mapped to VIC-Dandenong
+SUCCESS: Product MIH28GHN18-A (Week 33.0) with container TXGU5976550 mapped to VIC-Dandenong
+SUCCESS: Product MIH28GHN18-A (Week 33.0) with container TXGU5976550 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 33.0) with container TXGU5976550 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 33.0) with container TXGU5976550 mapped to VIC-Dandenong
+SUCCESS: Product MIH56GHN18-A (Week 33.0) with container TXGU5976550 mapped to VIC-Dandenong
+SUCCESS: Product MIH71GHN18-A (Week 33.0) with container TXGU5976550 mapped to VIC-Dandenong
+SUCCESS: Product MIH80GHN18-A (Week 33.0) with container TXGU5976550 mapped to VIC-Dandenong
+SUCCESS: Product FQH-04 (Week 33.0) with container TXGU5976550 mapped to VIC-Dandenong
+SUCCESS: Product FQH-06 (Week 33.0) with container TXGU5976550 mapped to VIC-Dandenong
+SUCCESS: Product FQH-06 (Week 33.0) with container TXGU5976550 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 35.0) with container ONEU6097337 mapped to VIC-Laverton
+SUCCESS: Product MIH28GHN18-A (Week 35.0) with container ONEU6097337 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 35.0) with container ONEU6103281 mapped to VIC-Laverton
+SUCCESS: Product MIH28GHN18-A (Week 35.0) with container ONEU6103281 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 35.0) with container ONEU6097044 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 35.0) with container ONEU6097044 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 35.0) with container ONEU6100425 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 35.0) with container ONEU6100425 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 35.0) with container ONEU6103379 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 35.0) with container ONEU6103379 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container TSSU5008436 mapped to VIC-Laverton
+SUCCESS: Product FQH-04 (Week 34.0) with container TSSU5008436 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container GAOU6762880 mapped to VIC-Laverton
+SUCCESS: Product FQH-04 (Week 34.0) with container GAOU6762880 mapped to VIC-Laverton
+SUCCESS: Product FQH-05 (Week 34.0) with container GAOU6762880 mapped to VIC-Laverton
+SUCCESS: Product MDV-V230WN1(AU) (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MIH28GHN18-A (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MIH45GHN18-A (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MIH56GHN18-A (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MIH71GHN18-A (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MIH71GHN18-A (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MIH71GHN18-A (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MIH80GHN18-A (Week 34.0) with container TIIU4464724 mapped to VIC-Mulgrave
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container TRHU8860559 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 34.0) with container TRHU8860559 mapped to VIC-Dandenong
+SUCCESS: Product MIH45GHN18-A (Week 34.0) with container TRHU8860559 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container TRHU4281292 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 34.0) with container TRHU4281292 mapped to VIC-Laverton
+SUCCESS: Product MIH56GHN18-A (Week 34.0) with container TRHU4281292 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container TSSU5003650 mapped to VIC-Laverton
+SUCCESS: Product MIH71GHN18-A (Week 34.0) with container TSSU5003650 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container GCXU6502204 mapped to VIC-Laverton
+SUCCESS: Product MIH80GHN18-A (Week 34.0) with container GCXU6502204 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container TCKU7560121 mapped to VIC-Laverton
+SUCCESS: Product FQH-04 (Week 34.0) with container TCKU7560121 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container TSSU5157424 mapped to VIC-Dandenong
+SUCCESS: Product MIH28GHN18-A (Week 34.0) with container TSSU5157424 mapped to VIC-Dandenong
+SUCCESS: Product FQH-05 (Week 34.0) with container TSSU5157424 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container TRHU8448937 mapped to VIC-Dandenong
+SUCCESS: Product FQH-06 (Week 34.0) with container TRHU8448937 mapped to VIC-Dandenong
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container TSSU5237772 mapped to VIC-Laverton
+SUCCESS: Product MIH36GHN18-A (Week 34.0) with container TSSU5237772 mapped to VIC-Laverton
+SUCCESS: Product FQH-06 (Week 34.0) with container TSSU5237772 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container TIIU4106994 mapped to VIC-Laverton
+SUCCESS: Product MIH45GHN18-A (Week 34.0) with container TIIU4106994 mapped to VIC-Laverton
+SUCCESS: Product MDV-V235WN1(AU)-A (Week 34.0) with container TSSU5031950 mapped to VIC-Dandenong
+SUCCESS: Product MIH36GHN18-A (Week 34.0) with container TSSU5031950 mapped to VIC-Dandenong
+SUCCESS: Product MIH100Q4HN18 (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product MIH112Q4HN18 (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product MIH140Q4HN18 (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product MIH71Q4HN18 (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product MIH56Q4CHN18 (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product MIH45Q4CHN18 (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product MIH36Q4CHN18 (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product MIH28Q4CHN18 (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product MIH112T1HN18 (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product MV8-450WV2RN1E(MA) (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product T-MBQ4-03F (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product T-MBQ4-01F (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product FQZHW-02N1E (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product TC3-7 (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+SUCCESS: Product WDC3-120T (Week 36.0) with container SNBU8419543 mapped to VIC-Dandenong
+FAILED: Product MDV-V235WN1(AU)-A (Week 37.0) with container MBT243 - No suburb mapping found
+FAILED: Product MIH36GHN18-A (Week 37.0) with container MBT243 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 37.0) with container MBT244 - No suburb mapping found
+FAILED: Product MIH36GHN18-A (Week 37.0) with container MBT244 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 37.0) with container MBT245 - No suburb mapping found
+FAILED: Product MIH36GHN18-A (Week 37.0) with container MBT245 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 38.0) with container MBT246 - No suburb mapping found
+FAILED: Product MIH36GHN18-A (Week 38.0) with container MBT246 - No suburb mapping found
+FAILED: Product MIH45GHN18-A (Week 38.0) with container MBT246 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 38.0) with container MBT247 - No suburb mapping found
+FAILED: Product MIH36GHN18-A (Week 38.0) with container MBT247 - No suburb mapping found
+FAILED: Product MIH56GHN18-A (Week 38.0) with container MBT247 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 38.0) with container MBT249 - No suburb mapping found
+FAILED: Product MIH80GHN18-A (Week 38.0) with container MBT249 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 38.0) with container MBT250 - No suburb mapping found
+FAILED: Product FQH-04 (Week 38.0) with container MBT250 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 38.0) with container MBT251 - No suburb mapping found
+FAILED: Product MIH36GHN18-A (Week 38.0) with container MBT251 - No suburb mapping found
+FAILED: Product FQH-05 (Week 38.0) with container MBT251 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 38.0) with container MBT252 - No suburb mapping found
+FAILED: Product FQH-06 (Week 38.0) with container MBT252 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 38.0) with container MBT253 - No suburb mapping found
+FAILED: Product MIH36GHN18-A (Week 38.0) with container MBT253 - No suburb mapping found
+FAILED: Product FQH-06 (Week 38.0) with container MBT253 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 38.0) with container MBT254 - No suburb mapping found
+FAILED: Product MIH45GHN18-A (Week 38.0) with container MBT254 - No suburb mapping found
+FAILED: Product FQH-06 (Week 38.0) with container MBT290RAC306 - No suburb mapping found
+FAILED: Product FQH-03 (Week 38.0) with container MBT290RAC306 - No suburb mapping found
+FAILED: Product MV8M-140WV2RN8 (Week 38.0) with container MBT290RAC306 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 38.0) with container MBT290RAC306 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 38.0) with container MBT290RAC306 - No suburb mapping found
+FAILED: Product WDC3-86T (Week 38.0) with container MBT290RAC306 - No suburb mapping found
+FAILED: Product WDC3-86T (Week 38.0) with container MBT290RAC306 - No suburb mapping found
+FAILED: Product WDC3-86T (Week 38.0) with container MBT290RAC306 - No suburb mapping found
+FAILED: Product WDC3-86T (Week 38.0) with container MBT290RAC306 - No suburb mapping found
+FAILED: Product WDC3-86T (Week 38.0) with container MBT290RAC306 - No suburb mapping found
+FAILED: Product MDV-V235WN1(AU)-A (Week 38.0) with container MBT255 - No suburb mapping found
+FAILED: Product MIH36GHN18-A (Week 38.0) with container MBT255 - No suburb mapping found
+FAILED: Product MIH45GHN18-A (Week 38.0) with container MBT255 - No suburb mapping found
+FAILED: Product MIH28GHN18-A (Week 38.0) with container MBT255 - No suburb mapping found
+FAILED: Product MIH45GHN18-A (Week 38.0) with container MBT255 - No suburb mapping found
+FAILED: Product MIH80GHN18-A (Week 38.0) with container MBT255 - No suburb mapping found
+FAILED: Product MIH80GHN18-A (Week 38.0) with container MBT255 - No suburb mapping found
+
+Product Report generated successfully.

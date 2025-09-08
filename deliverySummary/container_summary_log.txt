@@ -1,0 +1,42 @@
+Current directory: C:\Users\nikig\Desktop\Midea 2\deliverySummary
+Input file: C:\Users\nikig\Desktop\Midea 2\deliverySummary\出货汇总表8.25.xlsx
+Output file: C:\Users\nikig\Desktop\Midea 2\deliverySummary\Container_Summary.pdf
+Reading Excel file...
+Forward-filling 'Contr #' to handle merged cells...
+RAC sheet: 2602 rows
+MBT sheet: 1177 rows
+Customs sheet: 940 rows
+
+Destination changes in RAC sheet:
+Changed 1030 destinations
+  1. 'RAC-025/TGBU4948334': 'VIC-Mel' → 'VIC-Dandenong'
+  2. 'RAC-025/TGBU4948334': 'VIC-Mel' → 'VIC-Dandenong'
+  3. 'RAC-025/TGBU4948334': 'VIC-Mel' → 'VIC-Dandenong'
+  4. 'RAC-025/TGBU4948334': 'VIC-Mel' → 'VIC-Dandenong'
+  5. 'RAC-025/TGBU4948334': 'VIC-Mel' → 'VIC-Dandenong'
+  6. 'RAC-025/TGBU4948334': 'VIC-Mel' → 'VIC-Dandenong'
+  7. 'RAC-025/TGBU4948334': 'VIC-Mel' → 'VIC-Dandenong'
+  8. 'RAC-025/TGBU4948334': 'VIC-Mel' → 'VIC-Dandenong'
+  9. 'RAC-025/TGBU4948334': 'VIC-Mel' → 'VIC-Dandenong'
+  10. 'RAC-025/TGBU4948334': 'VIC-Mel' → 'VIC-Dandenong'
+
+Destination changes in MBT sheet:
+Changed 1068 destinations
+  1. 'MBT-011/BHCU4975791': 'VIC-Mel' → 'VIC-Dandenong'
+  2. 'MBT-011/BHCU4975791': 'VIC-Mel' → 'VIC-Dandenong'
+  3. 'MBT-011/BHCU4975791': 'VIC-Mel' → 'VIC-Dandenong'
+  4. 'MBT-011/BHCU4975791': 'VIC-Mel' → 'VIC-Dandenong'
+  5. 'MBT-011/BHCU4975791': 'VIC-Mel' → 'VIC-Dandenong'
+  6. 'MBT-012/BSIU9877805': 'VIC-Mel' → 'VIC-Dandenong'
+  7. 'MBT-012/BSIU9877805': 'VIC-Mel' → 'VIC-Dandenong'
+  8. 'MBT-012/BSIU9877805': 'VIC-Mel' → 'VIC-Dandenong'
+  9. 'MBT-012/BSIU9877805': 'VIC-Mel' → 'VIC-Dandenong'
+  10. 'MBT-012/BSIU9877805': 'VIC-Mel' → 'VIC-Dandenong'
+Processed 3050 total records
+Found 1444 containers with Customer='No'
+Generated weekly container summary with 35 unique weeks
+Found 1606 containers with Customer!='No'
+Generated consolidated monthly customer summary with 116 rows
+Creating PDF report: C:\Users\nikig\Desktop\Midea 2\deliverySummary\Container_Summary.pdf
+Found 7 unique destinations: ['China', 'NSW-Sydney', 'QLD-Brisbane', 'VIC-Dandenong', 'VIC-Laverton', 'VIC-Mulgrave', 'VIC-Mel (No Specific)']
+PDF report created successfully
