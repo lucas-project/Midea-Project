@@ -31,3 +31,4 @@ for i in range(915, 925):
         print(f"  Row {i}: B='{b_val}' | C='{c_val}'{marker}")
 
 
+
