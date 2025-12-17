@@ -1,6 +1,6 @@
-Current directory: C:\Users\nikig\Desktop\Midea 2\deliverySummary
-Input file: C:\Users\nikig\Desktop\Midea 2\deliverySummary\出货汇总表8.25.xlsx
-Output file: C:\Users\nikig\Desktop\Midea 2\deliverySummary\Container_Summary.pdf
+Current directory: C:\Users\Administrator\Desktop\midea\deliverySummary
+Input file: C:\Users\Administrator\Desktop\midea\deliverySummary\出货汇总表8.25.xlsx
+Output file: C:\Users\Administrator\Desktop\midea\deliverySummary\Container_Summary.pdf
 Reading Excel file...
 Forward-filling 'Contr #' to handle merged cells...
 RAC sheet: 2602 rows
@@ -37,6 +37,6 @@ Found 1444 containers with Customer='No'
 Generated weekly container summary with 35 unique weeks
 Found 1606 containers with Customer!='No'
 Generated consolidated monthly customer summary with 116 rows
-Creating PDF report: C:\Users\nikig\Desktop\Midea 2\deliverySummary\Container_Summary.pdf
+Creating PDF report: C:\Users\Administrator\Desktop\midea\deliverySummary\Container_Summary.pdf
 Found 7 unique destinations: ['China', 'NSW-Sydney', 'QLD-Brisbane', 'VIC-Dandenong', 'VIC-Laverton', 'VIC-Mulgrave', 'VIC-Mel (No Specific)']
 PDF report created successfully
